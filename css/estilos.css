@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://imagem.natelinha.uol.com.br/grande/frasedodia_56bacb113f1bab3668585b7763330d5c73b8e949.jpeg);
+      background-size: auto 100vh;
+      font-family: Arial;
+      height: 100vh;
+    }
+    
+    .menu { background-color: white;
+    } 
+    
+    .menu ul{ 
+    display: flex;
+      justify-content: space-around;
+    } 
+    
+    .menu li {
+      list-style: none;
+    }
+    
+    a {
+      color: teal;
+     text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+    
+    .site-title { 
+      color: black;
+      text-align: center;
+    } 
+    
+    .site-subtitle { 
+      color: black;
+      text-align: center;
+      font-style: italic;
+    } 
